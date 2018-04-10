@@ -3,17 +3,17 @@
     {
       "id": 1,
       "name": "test1",
-      "start" : "1523352327",
-      "end" : "1523352358",
+      "start" :1523352327,
+      "end" : 1523352358,
       "hasEnded" : "true",      
     },
     {
       "id": 2,
       "name": "test2",
-      "start" : "1523352568",
-      "end" : "1523352758",
+      "start" : 1523352568,
+      "end" : 1523352758,
       "hasEnded" : "true",      
-    }
+    },
   ],
   "profile": {
     "name": "typicode"
