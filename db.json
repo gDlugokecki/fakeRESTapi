@@ -2,10 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "name": "test1",
-      "start" :1523352327,
-      "end" : 1523352358,
-      "hasEnded" : "true",      
+      "name": "test1",  
     },
   ],
   "profile": {
