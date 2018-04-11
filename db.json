@@ -2,13 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "hainoob",
+      "kategory" : "Praca"
+      "title": "Gotowanie obiadu z twoja stara czesc 2 kevin sam w domu rucha Ci ojca",
       "start": 1523357365,
       "stop": 1523357379
     },
      {
       "id": 2,
-      "title": "hainoo2",
+      "Kategory" : " Rozrywka"
+      "title": "Nauka języka porogramowania JAVASCRIPT",
       "start": 1523359765,
       "stop": 1523359771
     }
