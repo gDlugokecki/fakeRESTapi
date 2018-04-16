@@ -17,6 +17,16 @@
      "stop": 1523445222
     }
   ],
+   "category": [
+     {
+      "category" : "Praca",
+      "Color" : "red",
+    },
+    {  
+     "category" : "rozrywka",
+     "Color" : "red",
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
