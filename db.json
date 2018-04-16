@@ -20,5 +20,15 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+    "category": [
+  {
+    "color" : "red",
+    "categoryName" : "Praca"
+  },
+  {
+    "color" : "blue",
+    "categoryName" : "Rozrywka"
   }
+  ]
 }
