@@ -19,12 +19,14 @@
   ],
    "category": [
      {
+      "id": 1,
       "category" : "Praca",
-      "Color" : "red",
+      "Color" : "red"
     },
     {  
+     "id": 2, 
      "category" : "rozrywka",
-     "Color" : "red",
+     "Color" : "red"
     }
   ],
   "profile": {
