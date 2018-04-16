@@ -17,17 +17,7 @@
       "stop": 1523359771
     }
     
-  ],
-"category": [
-  {
-    "color" : "red",
-    "categoryName" : "Praca"
-  },
-  {
-    "color" : "blue",
-    "categoryName" : "Rozrywka"
-  }
-  
   ]
+
   
 }
