@@ -6,7 +6,7 @@
       "Color" : "blue",
       "title": "Gotowanie obiadu z twoja stara czesc 2 kevin sam w domu rucha Ci ojca",
       "start": 1523357365,
-      "stop": 1523357379
+      "stop": 1523445882
     },
      {
       "id": 2,
@@ -20,5 +20,15 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "category": [
+  {
+    "color": "red",
+    "categoryName": "Praca"
+  },
+  {
+    "color": "blue",
+    "categoryName": "Rozrywka"
   }
+  ],
 }
