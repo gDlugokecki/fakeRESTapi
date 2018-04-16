@@ -1,6 +1,6 @@
 {
   "posts": [
-   {
+    {
       "id": 1,
       "kategory" : "Praca",
       "Color" : "blue",
@@ -8,9 +8,9 @@
       "start": 1523357365,
       "stop": 1523445882
     },
-     {
+    {
       "id": 2,
-       "Color" : "red",
+      "Color" : "red",
       "kategory" : "Rozrywka",
       "title": "Nauka języka porogramowania JAVASCRIPT",
       "start": 1523359765,
