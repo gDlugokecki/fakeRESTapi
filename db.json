@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "kategory" : "Praca",
+      "category" : "Praca",
       "Color" : "red",
       "title": "Gotowanie obiadu z twoja stara czesc 2 kevin sam w domu rucha Ci ojca",
       "start": 1523357365,
@@ -10,7 +10,7 @@
     },
     {
      "id": 2,
-     "kategory" : "rozrywka",
+     "category" : "rozrywka",
      "Color" : "red",
      "title": "Programowanie Javascript",
      "start": 1523357333,
