@@ -3,14 +3,14 @@
     {
       "id": 1,
       "category" : "Praca",
-      "title": "Praca nad projektem zespolowym, tworzenie timera",
+      "activityName": "Praca nad projektem zespolowym, tworzenie timera",
       "start": 1523357365,
       "stop": 1523445882
     },
     {
      "id": 2,
      "category" : "rozrywka",
-     "title": "Programowanie Javascript",
+     "activityName": "Programowanie Javascript",
      "start": 1523357333,
      "stop": 1523445222
     }
