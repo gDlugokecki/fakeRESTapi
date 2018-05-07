@@ -1,25 +1,25 @@
 {
   "posts": [
+        {
+     "id": 1,
+     "category" : "Praca",
+     "activityName": "Oglądanie Youtube",
+     "start": 1525376492,
+     "stop": 1525390892
+    },
     {
-      "id": 1,
+      "id": 2,
       "category" : "Praca",
       "activityName": "Praca nad projektem zespolowym, tworzenie timera",
       "start": 1523357365,
       "stop": 1523445882
     },
     {
-     "id": 2,
+     "id": 3,
      "category" : "rozrywka",
      "activityName": "Programowanie Javascript",
      "start": 1523357333,
      "stop": 1523445222
-    },
-     {
-     "id": 3,
-     "category" : "Praca",
-     "activityName": "Oglądanie Youtube",
-     "start": 1525376492,
-     "stop": 1525390892
     }
   ],
    "category": [
