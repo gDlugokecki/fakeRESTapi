@@ -13,6 +13,13 @@
      "activityName": "Programowanie Javascript",
      "start": 1523357333,
      "stop": 1523445222
+    },
+     {
+     "id": 3,
+     "category" : "Praca",
+     "activityName": "Oglądanie Youtube",
+     "start": 1525376492,
+     "stop": 1525390892
     }
   ],
    "category": [
