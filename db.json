@@ -2,21 +2,21 @@
   "posts": [
         {
      "id": 1,
-     "category" : "Praca",
+     "CategoryName" : "Praca",
      "activityName": "Oglądanie Youtube",
      "start": 1525376492,
      "stop": 1525390892
     },
     {
       "id": 2,
-      "category" : "Praca",
+      "CategoryName" : "Praca",
       "activityName": "Praca nad projektem zespolowym, tworzenie timera",
       "start": 1523357365,
       "stop": 1523445882
     },
     {
      "id": 3,
-     "category" : "rozrywka",
+     "CategoryName" : "rozrywka",
      "activityName": "Programowanie Javascript",
      "start": 1523357333,
      "stop": 1523445222
