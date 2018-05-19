@@ -36,5 +36,22 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "Beers": [
+    {
+      "id" : 1,
+      "nazwa" : "Lady Blanche",
+      "gatunek" : "Ale"
+    },
+   {
+      "id" : 2,
+      "nazwa" : "Warka",
+      "gatunek" : "Ale"
+    },
+   {
+      "id" : 3,
+      "nazwa" : "Lech",
+      "gatunek" : "Ale"
+    }
+]
 }
