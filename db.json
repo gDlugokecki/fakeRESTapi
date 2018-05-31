@@ -72,6 +72,11 @@
       "id" : 6,
       "nazwa" : "Ladta",
       "gatunek" : "Ale"
+    },
+     {
+      "id" : 7,
+      "nazwa" : "Lata",
+      "gatunek" : "Ale"
     }
 ]
 }
