@@ -67,6 +67,11 @@
       "id" : 5,
       "nazwa" : "Lady Miriam",
       "gatunek" : "Ale"
+    },
+    {
+      "id" : 6,
+      "nazwa" : "Ladta",
+      "gatunek" : "Ale"
     }
 ]
 }
