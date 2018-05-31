@@ -52,6 +52,21 @@
       "id" : 3,
       "nazwa" : "Lech",
       "gatunek" : "Ale"
-    }
+    },
+     {
+      "id" : 4,
+      "nazwa" : "Lechua",
+      "gatunek" : "Ale"
+    },
+    {
+      "id" : 4,
+      "nazwa" : "Lechuasa",
+      "gatunek" : "Ale"
+    },
+      {
+      "id" : 5,
+      "nazwa" : "Lady Miriam",
+      "gatunek" : "Ale"
+    },
 ]
 }
